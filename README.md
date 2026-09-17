@@ -10,3 +10,7 @@ This README was updated to improve the project documentation.
 ### Learning Goals
 
 Practice Git, GitHub, and collaborative development workflows.
+
+## Quick Note
+
+Documentation is continuously being improved.
